@@ -5,6 +5,7 @@ body {
 
 header, section {
   padding: 50px 300px 50px 300px;
+  
 }
 
 header, .section-two {
@@ -17,9 +18,7 @@ header {
 
 h1 {
   font-size: 36px;
-  
 }
-
 
 h2 {
   color: #ef5839;
@@ -42,6 +41,11 @@ h2 {
   color: #fff;
 }
 
+img {
+  width: 100%;
+}
+
+/* Buttons */
 
 .button-orange {
   display: inline-block;
@@ -77,9 +81,4 @@ h2 {
 
 .button-white:active {
   color: #3e354f;
-}
-
-
-img {
-  width: 100%;
 }
